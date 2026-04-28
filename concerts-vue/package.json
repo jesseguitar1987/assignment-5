@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "vite": "^8.0.10",
-    "vue-router": "^5.0.6"
-  }
-}
